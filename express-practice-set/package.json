@@ -1,0 +1,23 @@
+{
+  "name": "express-learning",
+  "version": "1.0.0",
+  "description": "for practice of express routing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon 1-practice.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meghraj-parashar/Express-learning.git"
+  },
+  "author": "Meghraj parashar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Meghraj-parashar/Express-learning/issues"
+  },
+  "homepage": "https://github.com/Meghraj-parashar/Express-learning#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
